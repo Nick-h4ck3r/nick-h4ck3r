@@ -1,4 +1,4 @@
-Hey, I am Nikhil.  Im' a Full-stack web developer. 🇮🇳
+Hey, **I am Nikhil**. I'm Full-stack web developer. 🇮🇳
 
 Portfolio website: (https://nikhilkadam.vercel.app)
 
