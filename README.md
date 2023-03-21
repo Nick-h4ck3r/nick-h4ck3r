@@ -11,9 +11,6 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOGPOSTS:START -->
-
-- [How to create a custom React Hook](https://nikhilkadam.hashnode.dev/how-to-create-a-custom-react-hook)
-
 <!-- BLOGPOSTS:END -->
 
 <!-- ## 📺 Latest YouTube Videos -->
