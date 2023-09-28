@@ -51,6 +51,7 @@ YOUTUBE:END -->
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 </p>
 
+[![An image of @nickk2305's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nickk2305)](https://holopin.io/@nickk2305)
 
 ## 📫 How to reach me
 
